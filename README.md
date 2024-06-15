@@ -1,6 +1,6 @@
 # school_announcement
 
-A new Flutter project.
+This project is submittion of a project assignment
 
 ## Getting Started
 
