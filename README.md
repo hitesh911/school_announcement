@@ -1,7 +1,7 @@
 # school_announcement
 
 This project is submittion of a project assignment
-
+Release apk file can be downloaded from here : https://github.com/hitesh911/school_announcement/blob/main/app-release.apkhttps://github.com/hitesh911/school_announcement/blob/main/app-release.apk
 ## Getting Started
 
 This project is a starting point for a Flutter application.
